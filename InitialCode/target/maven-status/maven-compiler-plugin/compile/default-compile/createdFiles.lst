@@ -1,0 +1,15 @@
+aoop/asteroids/model/Asteroid.class
+aoop/asteroids/model/LargeAsteroid.class
+aoop/asteroids/model/GameObject.class
+aoop/asteroids/Asteroids.class
+aoop/asteroids/model/MediumAsteroid.class
+aoop/asteroids/gui/AsteroidsFrame$1.class
+aoop/asteroids/gui/AsteroidsFrame.class
+aoop/asteroids/model/Bullet.class
+aoop/asteroids/gui/AsteroidsPanel$1.class
+aoop/asteroids/model/Game.class
+aoop/asteroids/gui/AsteroidsPanel.class
+aoop/asteroids/gui/Player.class
+aoop/asteroids/model/SmallAsteroid.class
+aoop/asteroids/gui/AsteroidsFrame$2.class
+aoop/asteroids/model/Spaceship.class
